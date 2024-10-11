@@ -12,7 +12,7 @@ Aplikacja po przeczytaniu pliku .txt miesza litery w każdym słowie zostawiają
 Projekt wykorzystuje:
 - **Python** — język programowania,
 - **Django** — framework webowy,
-- **HTML** — do struktury oraz stylizacji interfejsu.
+- **HTML** — do struktury interfejsu.
 
 ## Instalacja
 
